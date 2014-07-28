@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * @author pestis
- *
- */
-package Factory;
