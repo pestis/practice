@@ -1,4 +1,4 @@
-package ParseLong;
+package test.java;
 
 public class ParseLongTests {
 
